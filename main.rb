@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative 'game'
+
 # This class starts/ends the game
 class Main
   attr_reader :game
